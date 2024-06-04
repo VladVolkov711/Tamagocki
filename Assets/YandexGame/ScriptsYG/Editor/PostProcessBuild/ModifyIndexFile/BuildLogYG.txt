@@ -1,0 +1,2 @@
+Build path: C:/Users/zhuic/Tamagochi/Game
+Build number: 5
